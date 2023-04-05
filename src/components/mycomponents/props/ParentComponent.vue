@@ -1,5 +1,5 @@
 <script>
-import ChildComponent from '../directives/ChildComponent.vue'
+import ChildComponent from '/ChildComponent.vue'
 export default {
   components: { ChildComponent },
     data() {

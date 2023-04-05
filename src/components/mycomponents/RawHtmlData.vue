@@ -5,7 +5,7 @@ export default {
             title : 'This is My Title for Monday',
             person : {
             id: 1,
-            name: 'Bill',
+            name: 'Bill Murray',
             img: 'https://www.ecured.cu/images/thumb/0/0a/Atrapado_en_el_tiempo_%28Pel%C3%ADcula%29.jpg/260px-Atrapado_en_el_tiempo_%28Pel%C3%ADcula%29.jpg'
             },
             msg: "Bill uno de los integrantes de los cazafantasmas",

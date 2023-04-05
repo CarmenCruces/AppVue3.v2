@@ -6,8 +6,8 @@ export default {
 </script>
 
 <template>
-    <ApiPokemon></ApiPokemon>
-    <ApiChuckNorris></ApiChuckNorris>
+    <ApiPokemon />
+    <ApiChuckNorris />
 </template>
 
 <style></style>

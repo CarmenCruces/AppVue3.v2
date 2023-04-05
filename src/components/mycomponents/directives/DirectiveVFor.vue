@@ -10,7 +10,7 @@ export default {
 
 <template>
     <div>
-        <h3>V - For directive.......</h3>
+        <h3>V - For directive...</h3>
         <ul>
             <template v-for="(country, key) in list" :key="key">
                 <li :id="[key + 1]"> {{ key }}: {{ country }}</li>
